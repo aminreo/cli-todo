@@ -4,8 +4,8 @@ simple CLI version
 # Usage
 after cloning this repo and `cd` into the directory
 ```java
-javac main.java 
-java main "task1" "task2"
+javac todoApp.java 
+java todoApp "task1" "task2"
 ```
 output
 ```console
